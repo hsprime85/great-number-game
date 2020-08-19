@@ -1,0 +1,43 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+}
+
+#container {
+    width: 700px;
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+    background-color: rgb(255, 251, 191);
+}
+
+#bigBox {
+    margin-top: 15px;
+    padding: 100px;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(86, 131, 77);
+}
+
+#inputBox {
+    height: 30px;
+    font-size: 20px;
+    width: 150px;
+}
+
+.submit{
+    margin: 10px;
+    width: 80px;
+    height: 30px;
+    border-style: none;
+    background-color: cornflowerblue;
+    font-size: 18px;
+    border-radius: 10px;
+
+}
+
+#reset {
+    width: 200px;
+}
